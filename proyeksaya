@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>THRIFT.SKUYYY- Pakaian Bekas Berkualitas</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        header {
+            background-color: #1a1a1a;
+            color: #fff;
+            padding: 30px 0;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2em;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        .logo {
+            width: 150px;
+            margin: 20px auto;
+        }
+        .contact-info {
+            margin-top: 30px;
+            font-size: 1.2em;
+        }
+        .contact-info a {
+            color: #007bff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>THRIFT.SKUYYY</h1>
+    <p><i>Thrift Store dengan pakaian bekas berkualitas dengan harga terjangkau</i></p>
+    <img src="rebon.jpeg" alt="Logo Thrift Store" class="logo">
+</header>
+
+<section>
+    <h2>Hubungi Kami</h2>
+    <p><i>Jika Anda tertarik atau memiliki pertanyaan, jangan ragu untuk menghubungi kami melalui kontak di bawah ini</i></p>
+    <div class="contact-info">
+        <p>
+            <a href="https://wa.me/62881010029293" target="_blank">WhatsApp</a> | 
+            <a href="https://www.instagram.com/thrif.skuyyy" target="_blank">Instagram</a>
+            <a 
+         </p>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2025 Thrift.Skuyy - Semua Hak Cipta Dilindungi</p>
+</footer>
+
+</body>
+</html>
